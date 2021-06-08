@@ -1,2 +1,2 @@
 # Requeirement-Analysis
-A study on new futuristic feature from Requirements point of view
+A study on a new futuristic feature from Requirements point of view
